@@ -2,7 +2,7 @@
 
 Redux is an alternative to Flux. Very similar to Flux.
 
-#### What is Flux?
+#### What is Flux?
 
 Flux can be considered an architectural pattern just like MVC is. People argue that Flux is just MVC being squashed and brings
 the concept of using an event-driven approach to implement MVC.
